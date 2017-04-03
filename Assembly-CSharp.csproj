@@ -49,6 +49,8 @@
      <Compile Include="Assets\Scripts\Recognition.cs" />
      <Compile Include="Assets\Teleporter.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Skybox\mp_ae\license.txt" />
+     <None Include="Assets\Skybox\mp_ae\mp_ae.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
